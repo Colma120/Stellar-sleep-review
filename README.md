@@ -10,10 +10,12 @@ Ready to ditch the tossing and turning and embrace the sleep of your dreams? Div
 [Click Here Now to Try Out Stellar Sleep](rebrand.ly/stellar-sleep-github)
 
 ## What is Stellar Sleep?
+![Image](https://github.com/user-attachments/assets/5309de63-7e6e-4ef7-a2d1-78b5059d552e)
 
 Stellar Sleep is a sleep psychology app that helps you achieve permanent sleep improvement using psychological principles. It is supported by science and validated by leading sleep researchers. Stellar Sleep employs a scientifically supported method, cognitive behavioural therapy for insomnia (CBT-I), to improve sleep quality and duration. CBT-I is a front-end, leading physician-recommended treatment for insomnia and is about times more effective than sleeping medication.
 
 ## How Does Stellar Sleep Work?
+![Image](https://github.com/user-attachments/assets/adc428ff-5928-456b-a489-aa9aeb0356fe)
 
 Unlike traditional sleep aids or medications, Stellar Sleep doesn't focus on directly inducing sleep. Instead, it utilizes cognitive behavioural therapy for insomnia (CBT-I), a clinically proven approach to address the underlying causes of sleep problems.
 You will understand better how Stellar Sleep functions by reading the section of this article about the features of Stellar Sleep.
@@ -21,10 +23,12 @@ You will understand better how Stellar Sleep functions by reading the section of
 <span style="font-family: helvetica, arial, sans-serif;"><a href="https://rebrand.ly/stellar-sleep-github"><img class="aligncenter loaded" src="https://i.imgur.com/XSo2dvH.png" data-lazy="true" /></a></span>
 
 ## Who owns Stellar Sleep?
+![Image](https://github.com/user-attachments/assets/712c4895-2655-4958-b202-2510e3db4f00)
 
 Stellar Sleep was developed by a team of Harvard graduates, George Wang and Edrei Chua, who suffered from chronic insomnia themselves and wanted to create a comprehensive solution that addresses the root causes of insomnia.
 
 ## How to Sign Up for Stellar Sleep:
+![Image](https://github.com/user-attachments/assets/a704fcab-0e25-41e3-8772-b4e1244ae182)
 
 + To sign up for Stellar Sleep, you need to follow these simple steps:
 + Firstly [Click Here](rebrand.ly/stellar-sleep-github)
@@ -35,6 +39,7 @@ Stellar Sleep was developed by a team of Harvard graduates, George Wang and Edre
 + Start your personalized program and record your sleep daily.
 
 ## Stellar Sleep Diagnostics:
+![Image](https://github.com/user-attachments/assets/873dbda9-6283-4f2b-b37d-bbf16bb8f14e)
 
 Diagnostics involves the process of identifying the cause and nature of a problem, or in this case sleeping disorder.
 
@@ -45,6 +50,7 @@ Stellar Sleep has a unique way of performing diagnostics on users. You can attes
 To take the sleep quiz and find out the current state of your sleep health >>[Click Here](rebrand.ly/stellar-sleep-github)<<
 
 ## Stellar Sleep Features:
+![Image](https://github.com/user-attachments/assets/a97af64f-85da-4f28-baf9-13e1661a16c6)
 
 The following are features and specs of Stellar Sleep:
 
@@ -66,6 +72,7 @@ Educational modules: Informative content on sleep hygiene, relaxation techniques
 [Click Here Now to Try Out Stellar Sleep](rebrand.ly/stellar-sleep-github)
 
 ## Pros and Cons of Stellar Sleep:
+![Image](https://github.com/user-attachments/assets/43589a1c-c23a-4d4e-8519-7b7e24feed30)
 
 ### Pros:
 + It is supported by science, validated by leading sleep researchers and scientists in its approach of using CBT-I technology.
@@ -98,9 +105,15 @@ They also offer a financial aid package. You can submit a ticket to learn more a
 ## Stellar Sleep Customer Reviews
 Here are some Stellar Sleep customer reviews sourced from Google Play Store and Apple Store:
 
+![Image](https://github.com/user-attachments/assets/89037613-d8ad-4d01-901f-a73f9a64a260)
+
+![Image](https://github.com/user-attachments/assets/11688477-9f0e-413e-968f-3c829fd10a1f)
+
 [Click Here Now to Try Out Stellar Sleep](rebrand.ly/stellar-sleep-github)
 
 ## Is Stellar Sleep Legit?
+![Image](https://github.com/user-attachments/assets/f0322c92-d702-4a61-9bda-83ef160324f5)
+
 The software which Stellar Sleep uses in their treatment for insomnia is widely known to be effective and enduring. By this, I mean a scientifically supported method, cognitive behavioural therapy for insomnia (CBT-I). 
 
 It doesn't make use of any unorthodox methods like hypnosis but bases its efforts on determining the exact sleep disorder and applying proper corrective measures, suggestions and routines to solve your insomnia.
